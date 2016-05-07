@@ -31,7 +31,7 @@ of this scheme should be reported as bugs.
 
 ## Contributors
 
-- John-Alan Simmons ([jsimnz](https://github.com/jsimnz), (@iamjsimnz)[htps://twitter.com/iamjsimnz])
+- John-Alan Simmons ([jsimnz](https://github.com/jsimnz), [@iamjsimnz](https://twitter.com/iamjsimnz))
 
 Special thanks to [Kruttik Aggarwal](https://github.com/k504866430) for the original codebase that was forked from [omniauth-eventbrite](https://github.com/k504866430/omniauth-eventbrite)
 
