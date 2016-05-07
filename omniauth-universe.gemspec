@@ -5,7 +5,7 @@ require 'omniauth/universe/version'
 
 Gem::Specification.new do |spec|
   spec.name        = 'omniauth-universe'
-  spec.version     = OmniAuth::Universe::VERSION
+  spec.version     = Omniauth::Universe::VERSION
   spec.authors     = ['John-Alan Simmons']
   spec.email       = ['simmons.johnalan@gmail.com']
   spec.homepage    = 'https://github.com/conferencecloud/omniauth-universe'
